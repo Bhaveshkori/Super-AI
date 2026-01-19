@@ -1,0 +1,9 @@
+{
+  "name": "Super AI",
+  "description": "A premium AI comparison platform allowing users to compare multiple AI models side-by-side with a single prompt.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
